@@ -22,10 +22,11 @@ Transaction: https://explorer.aleo.org/transaction/at1hexc2qk0wx6h5eg6760kc0w0l2
 ![image](https://github.com/albertwong08/BUILDH3R_June_Demox/assets/80051495/1b88d2cf-991c-4120-8eff-403aa7776634)
 
 Step 7: Go to https://demo.leo.app/deploy. After connecting to my leo wallet, put my compiled work which is saved at build\main.aleo to Program. Input fees, program id, etc and Deploy. 
-![image](https://github.com/albertwong08/BUILDH3R_June_Demox/assets/80051495/d167b905-8b7e-4270-bc41-705876534b99)
+![image](https://github.com/albertwong08/BUILDH3R_June_Demox/assets/80051495/43cc12d7-ff2d-4e9a-83fe-3b4a105a3612)
 
 My work is then deployed
 https://explorer.aleo.org/transaction/at1tuxyn4xd9x93z4cust4akm0k9fevf7e4vynt2n8y6xcc9qshxcqqgp4vd9
-![Uploading image.png…]()
+![image](https://github.com/albertwong08/BUILDH3R_June_Demox/assets/80051495/98be2352-1757-4f36-bb7b-35a70bb0fa89)
+
 
 
