@@ -37,5 +37,6 @@ https://explorer.aleo.org/transaction/at1tuxyn4xd9x93z4cust4akm0k9fevf7e4vynt2n8
 
 ![image](https://github.com/albertwong08/BUILDH3R_June_Demox/assets/80051495/98be2352-1757-4f36-bb7b-35a70bb0fa89)
 
+https://explorer.aleo.org/program/token_tut_ws2024jun09.aleo
 
 
